@@ -40,7 +40,7 @@ Sales-Analysis/
 ---
 
 ## 📈 Dashboard Preview  
-(Add screenshots of your Power BI dashboard here from the `screenshots` folder.)
+(https://github.com/DanunjayaRao/Sales_Analysis/commit/130354a9914a93b0111807005c98ebca0ce6ce90#diff-bbf4ec76f00349b16350c016aaca9f3f3c26af215eab66c275b1d5967294722d)
 
 ---
 
