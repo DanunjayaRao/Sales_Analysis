@@ -16,8 +16,7 @@ The aim is to uncover insights such as revenue trends, top markets, and product 
 
 ## 🛠️ Tools & Technologies  
 - **SQL (MySQL)** – Data storage & analysis  
-- **Power BI** – Dashboard visualization  
-- **Excel** – Validation & data checks  
+- **Power BI** – Dashboard visualization   
 
 ---
 
